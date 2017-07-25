@@ -4,10 +4,15 @@
 **What if we built a government that worked for the American people in the 21st century?**
 
 Where services are simple, beautiful, and easy to use.
+
 Where outcomes are measurably better.
+
 Where better costs less.
+
 Where we serve everyone equally with dignity.
+
 It would be the biggest source of societal good for a generation.
+
 We must all build it together.
 
 # Mission
