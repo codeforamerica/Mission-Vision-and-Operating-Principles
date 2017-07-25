@@ -1,3 +1,3 @@
 # Narrative-Mission-vision-operating-principles
 
-This is a document (TBD) 
+We've created a Mission/Vision/Operating Principles document for public review. Please feel free to add issues and give us feedback! 
