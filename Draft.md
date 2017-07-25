@@ -1,9 +1,7 @@
 # Vision
+ (The world as we’d like to see it)
 
-#
-(The world as we&#39;d like to see it)
-
-# What if we built a government that worked for the American people in the 21st century?
+## What if we built a government that worked for the American people in the 21st century?
 
 Where services are simple, beautiful, and easy to use.
 
@@ -17,12 +15,12 @@ It would be the biggest source of societal good for a generation.
 
 We must all build it together.
 
-# Mission
+## Mission
 (how we intend to make our vision real)
 
 **Code for America uses the principles and practices of the digital age to improve how government serves the American public, and how the public improves government.**
 
-1. **To inspire change**
+###1. To inspire change
 
 To inspire public servants, people from the tech sector, and community organizers to create change by demonstrating that government services can be simple, beautiful, and easy to use.
 
