@@ -1,5 +1,5 @@
 # Vision
- (The world as we’d like to see it)
+ *The world as we’d like to see it*
 
 **What if we built a government that worked for the American people in the 21st century?**
 
@@ -11,7 +11,7 @@ It would be the biggest source of societal good for a generation.
 We must all build it together.
 
 # Mission
-(how we intend to make our vision real)
+*How we intend to make our vision real*
 
 Code for America uses the principles and practices of the digital age to improve how government serves the American public, and how the public improves government.
 
@@ -19,7 +19,7 @@ Code for America uses the principles and practices of the digital age to improve
 To inspire public servants, people from the tech sector, and community organizers to create change by demonstrating that government services can be simple, beautiful, and easy to use.
 
 2. **To make change real**
-Providing government with access to the resources and digital talent they need so that together we can meaningfully impact some of the world&#39;s toughest societal challenges.
+Providing government with access to the resources and digital talent they need so that together we can meaningfully impact some of the world's toughest societal challenges.
 
 3. **To make change stick**
 Connecting and convening people from inside and outside government, and from all over the world to inspire each other, share successes, learn, build, and shape a new culture of public service for the 21st century.
