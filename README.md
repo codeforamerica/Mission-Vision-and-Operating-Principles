@@ -7,8 +7,8 @@ Everyone is welcome to contribute edits to [the text itself](https://github.com/
 
 When adding an issue, please use the following format: 
 
-**What: ** This is the part of the document that you want to edit or add to. 
+**What:** This is the part of the document that you want to edit or add to. 
 
 > Use a quote to alter the text 
 
-**Why: ** State your case here. 
+**Why:** State your case here. 
