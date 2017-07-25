@@ -4,3 +4,11 @@ Code for America is a national network of people working to help government work
 
 # Contributing
 Everyone is welcome to contribute edits to [the text itself](https://github.com/codeforamerica/Mission-Vision-and-Operating-Principles/blob/master/Draft.md) or to [submit comments](https://github.com/codeforamerica/Mission-Vision-and-Operating-Principles/issues/new) with ideas, feedback or questions.
+
+When adding an issue, please use the following format: 
+
+**What: ** This is the part of the document that you want to edit or add to. 
+
+> Use a quote to alter the text 
+
+**Why: ** State your case here. 
