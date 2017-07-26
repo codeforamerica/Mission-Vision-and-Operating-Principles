@@ -53,10 +53,12 @@ Connecting and convening people from inside and outside government, and from all
 *The ideas that guide the decisions we make*
 
 * **Solve real problems.** We solve problems that real people have, we make sure what we build works for them, and we continuously improve it. We solve real problems instead of just creating elegant code and robust systems to solve imagined ones.
-* **Work with, not for** the people we serve. We respect our users by actively including them in the process of design and delivery. We respect and support public servants, and when we are critical of government outcomes, we blame the system, not the people.
+* **Work with, not for** the people we serve. We respect our users by actively including them in the process of design and delivery. We respect and support public servants, and when we are critical of government outcomes, we blame the system, not the people.* 
 * **Start and end with the user**
 Start by understanding the needs of the people government serves. Work with real people to understand who they are, what they need, and how they behave throughout the process.
 * **Move fast, iterate quickly**
 Get a working minimum viable product (MVP) in front of users as early as possible and make continuous improvements based on how they use the service.
 * **Make it better with data**
 Inform iterations with data about user behavior. Evaluate programs based on data about outcomes.
+
+*Laurenellen McCann first spoke about building with, not for at the 2014 Code for America Summit.
