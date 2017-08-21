@@ -37,10 +37,8 @@ Connecting and convening people from inside and outside government, and from all
 * **Fewer people go hungry** by closing the SNAP participation gap
 * **Fewer people go to jail** by safely reducing unnecessary incarceration
 * **More people get work** by increasing employment among those who are the hardest to employ
-* Government will employ different kinds of talent
-* We'll see a new category of civic technology consulting emerge
-* Government RFPs will transform in their asks
-* The civic tech movement will be dynamic and evolving
+* Digital will become a core competency of government
+* The vendor ecosystem will change to become more responsive to user needs
 
 # Our values
 *what we are like as an organization*
@@ -60,5 +58,7 @@ Start by understanding the needs of the people government serves. Work with real
 Get a working minimum viable product (MVP) in front of users as early as possible and make continuous improvements based on how they use the service.
 * **Make it better with data**
 Inform iterations with data about user behavior. Evaluate programs based on data about outcomes.
+* **Impact not ideology.**
+Government that works for all people doesn’t belong to one party or ideology. We welcome all political and social views that respect the principle that government should serve all people equally.
 
 *Laurenellen McCann first spoke about building with, not for at the 2014 Code for America Summit.
