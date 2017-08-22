@@ -3,7 +3,7 @@
 
 **What if we built a government that worked for the American people in the 21st century?**
 
-Where services are simple, beautiful, and easy to use.
+Where services are simple, respectful, and easy to use.
 
 Where outcomes are measurably better.
 
@@ -13,7 +13,7 @@ Where we serve everyone equally with dignity.
 
 It would be the biggest source of societal good for a generation.
 
-We must all build it together.
+Let's all build it together.
 
 # Mission
 *How we intend to make our vision real*
@@ -37,15 +37,15 @@ Connecting and convening people from inside and outside government, and from all
 * **Fewer people go hungry** by closing the SNAP participation gap
 * **Fewer people go to jail** by safely reducing unnecessary incarceration
 * **More people get work** by increasing employment among those who are the hardest to employ
-* Digital will become a core competency of government
-* The vendor ecosystem will change to become more responsive to user needs
+* **Digital will become a core competency of government** by employing people with digital skillsets.
+
 
 # Our values
 *what we are like as an organization*
 
-1. **Empathy is our operating system.** We have a deep empathy for the people we work with. We seek to understand the problems they have, we put ourselves in their shoes, and we work tirelessly to serve them.
+1. **Empathy is our operating system.** We have a deep empathy for the people we work with. We seek to understand the problems they face and we work tirelessly to serve them.
 2. **No one is coming. It's up to us.** We don't wait to be asked; we act. We don't ask for permission; we find a way. We don't talk change; we deliver it.
-3. **Build the movement; cultivate the karass.** No one organization can fulfill this vision; we will succeed through a movement that invites everyone to roll up their sleeves and do their part.
+3. **Build the movement.** No one organization can fulfill this vision; we will succeed through a movement that invites everyone to roll up their sleeves and do their part.
 
 # Our operating principles
 *The ideas that guide the decisions we make*
@@ -60,5 +60,6 @@ Get a working minimum viable product (MVP) in front of users as early as possibl
 Inform iterations with data about user behavior. Evaluate programs based on data about outcomes.
 * **Impact not ideology.**
 Government that works for all people doesn’t belong to one party or ideology. We welcome all political and social views that respect the principle that government should serve all people equally.
+* **Shape the market, don't capture the market.** Government that works for all requires the vendor ecosystem to change to become more responsive to user needs. We have the potential to create the biggest change when our projects seek to shape, rather than capture the market for government technology.
 
 *Laurenellen McCann first spoke about building with, not for at the 2014 Code for America Summit.
