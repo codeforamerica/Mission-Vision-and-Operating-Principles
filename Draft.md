@@ -9,7 +9,7 @@ Where outcomes are measurably better.
 
 Where better costs less.
 
-Where we serve everyone equally with dignity.
+Where we serve everyone with dignity.
 
 It would be the biggest source of societal good for a generation.
 
