@@ -45,7 +45,7 @@ Connecting and convening people from inside and outside government, and from all
 
 1. **Empathy is our operating system.** We have a deep empathy for the people we work with. We seek to understand the problems they face and we work tirelessly to serve them.
 2. **No one is coming. It's up to us.** We don't wait to be asked; we act. We don't ask for permission; we find a way. We don't talk change; we deliver it.
-3. **Build the movement.** No one organization can fulfill this vision; we will succeed through a movement that invites everyone to roll up their sleeves and do their part.
+3. **Build the movement; cultivate the karass.** No one organization can fulfill this vision; we will succeed through a movement that invites everyone to roll up their sleeves and do their part. [http://www.youhavetolearncomputers.com/blog/2015/9/23/saying-goodbye-to-jake-brewer]
 
 # Our operating principles
 *The ideas that guide the decisions we make*
