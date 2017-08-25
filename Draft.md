@@ -21,13 +21,13 @@ Let's all build it together.
 Code for America uses the principles and practices of the digital age to improve how government serves the American public, and how the public improves government.
 
 1. **To inspire change**
-To inspire change To inspire public servants, people from the technology sector, and community organizers to create change by demonstrating that government services can be simple, beautiful, and easy to use.
+To inspire public servants, people from the technology sector, and community organizers to create change by demonstrating that government services can be simple, respectful, and easy to use.
 
 2. **To make change real**
 Providing government with access to the resources and digital talent they need so that together we can meaningfully impact some of the world's toughest societal challenges.
 
 3. **To make change stick**
-Connecting and convening people from inside and outside government, and from all over the world to inspire each other, share successes, learn, build, and shape a new culture of public service for the 21st century.
+Connecting and convening people from inside and outside government; and from all over the world; to inspire each other, share successes, learn, build, and shape a new culture of public service for the 21st century.
 
 **To do it all at scale, serving those who need it most.**
 
@@ -37,7 +37,7 @@ Connecting and convening people from inside and outside government, and from all
 * **Fewer people go hungry** by closing the SNAP participation gap
 * **Fewer people go to jail** by safely reducing unnecessary incarceration
 * **More people get work** by increasing employment among those who are the hardest to employ
-* **Digital will become a core competency of government** by employing people with digital skillsets.
+* **Digital becomes a core competency of government** by employing people with digital skillsets.
 
 
 # Our values
