@@ -3,12 +3,12 @@
 
 **Government can work for the people, by the people in the digital age.**
 
-Services can be simple, accessible, and easy to use. 
-Outcomes can be measurably better.
-Better can cost less.
-We can serve everyone with respect and dignity.
+Services can be simple, accessible, and easy to use.<br> 
+Outcomes can be measurably better.<br>
+Better can cost less.<br>
+We can serve everyone with respect and dignity.<br>
 
-It would be the biggest source of societal good for a generation.
+It would be the biggest source of societal good for a generation.<br>
 Let’s all build it together.
 
 # Mission
@@ -28,7 +28,7 @@ Connecting and convening people from inside and outside government, and from all
 **To do it all at scale, serving those who need it most.**
 
 # Our values
-*what we are like as an organization*
+*What we are like as an organization*
 
 1. **Empathy is our operating system.** We have a deep empathy for the people we work with. We seek to understand the problems they face and we work tirelessly to serve them. 
 2. **No one is coming. It's up to us.** We don’t wait for the powers that be to ask us; we act. We don’t ask for permission; we find a way. We don’t talk change; we deliver it.
@@ -44,7 +44,7 @@ We solve problems that real people have, we make sure what we build works for th
 the people we serve. We start with our users, the people affected by the service, and understand and respect their needs throughout the process. We also respect and support public servants, and when we are critical of government outcomes, we blame the system, not the people.*
  
  * **We build up**
- , from the user to the system, and from the local to the federal.
+, from the user to the system, and from the local to the federal.
 
 * **Work lean, iterate quickly.**
 Get a working minimum viable product (MVP) in front of users as early as possible and make continuous improvements based on how they use the service.
