@@ -53,6 +53,7 @@ Get a working minimum viable product (MVP) in front of users as early as possibl
 Inform iterations with data about user behavior. Evaluate programs based on statistically-sound ground-truthed data about outcomes.
 
 * **Default to open.**
+Work in the open and collaborate with the community to help make programs and services better for everyone.
 
 * **Impact not ideology.**
 Government that works for all people doesn’t belong to one party or ideology. We welcome all political and social views that respect the principle that government should work effectively for all Americans with respect and dignity.
